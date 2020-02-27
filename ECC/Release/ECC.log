@@ -1,0 +1,11 @@
+﻿  BigNumber.c
+  File_Fuction.c
+  main.c
+  Operation.c
+C:\Users\송진교\source\repos\ECC\ECC\Operation.c(80,27): warning C4018:  '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\송진교\source\repos\ECC\ECC\Operation.c(82,17): warning C4018:  '>=': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ECC.vcxproj -> C:\Users\송진교\source\repos\ECC\Release\ECC.exe
